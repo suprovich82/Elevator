@@ -1,0 +1,11 @@
+---
+build/test/mocks/mock_Lim_Switches_Cabin.c:
+- TEST
+build/test/mocks/mock_Cabin_Brakes.c:
+- TEST
+build/test/mocks/mock_Door_Actuators.c:
+- TEST
+build/test/mocks/mock_Motor.c:
+- TEST
+src/Keys.c:
+- TEST
